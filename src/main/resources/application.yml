@@ -1,0 +1,3 @@
+spring:
+  application:
+    name: saluti-web-api
